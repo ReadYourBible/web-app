@@ -1,2 +1,2 @@
-# web-app
+# Bibliqa
 Read Your Bible
